@@ -1,0 +1,26 @@
+{
+	"details":[
+		{
+			"card":{
+				"name":"surya",
+				"email":"surya@gmail.com",
+				"mobile":"9876543210",
+				"des":"Card data",
+				"career":"Become a developer"
+			}
+
+
+		},
+		{
+			"card":{
+				"name":"venkat",
+				"email":"venkat@gmail.com",
+				"mobile":"9123456778",
+				"des":"2nd Card data",
+				"career":"Become a trainer"
+			}
+		}
+
+
+	]
+}
